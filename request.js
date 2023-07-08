@@ -1,5 +1,3 @@
-const key = "d3f66f1474e0c50a2ebf22162c71bb42";
-
 // const baseUrl = `https://api.openweathermap.org/data/2.5/weather?q=London&appid=${key}`;
 
 // const baseURL = 'http://api.lopenweathermap.org/data/2.5/weather?q=Lagos&appid=cbe3dd267a18f6c89943b3eff94f1ed7';
